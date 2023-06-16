@@ -1,0 +1,15 @@
+{
+  "token": "6BuDQ6UCPnY04dHilMqVHPouXWVC2n8m",
+  "prefix": "!",
+  "serverAddress": "myclassic1.os-srv.me",
+  "serverPort": "25601",
+  "serverName": "MinecaSMP",
+  "updateInterval": "1min",
+  "showPlayerSample": true,
+  "debugMode": true,
+  "debugLvl": 1,
+  "pinUpdate": true,
+  "pinId": "",
+  "pinGuildId": "1119149600549372004",
+  "pinChanId": "1089872976196927508"
+}
